@@ -26,8 +26,7 @@ A fully responsive multi-section landing page built using semantic HTML and mode
 This project was built during an intensive HTML & CSS learning course and focuses on layout engineering and responsive UI development.
 
 ## 🚀 Live Demo
-(You can add here:)
-`https://olesia-19.github.io/goit-markup-hw-06/`
+https://olesia-19.github.io/responsive-landing-page/
 
 ## 👩‍💻 Author
 Olesia — Fullstack Developer
